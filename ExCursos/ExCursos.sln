@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExCursos", "ExCursos\ExCursos.csproj", "{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteCursos", "TesteCursos\TesteCursos.csproj", "{004A29AE-8048-463D-ADE4-4E3654FC85E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{599FD08D-6A74-4C55-AA48-006894B81F0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D76A4859-2CCF-4CFD-A529-D23DA3A7B969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004A29AE-8048-463D-ADE4-4E3654FC85E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004A29AE-8048-463D-ADE4-4E3654FC85E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004A29AE-8048-463D-ADE4-4E3654FC85E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004A29AE-8048-463D-ADE4-4E3654FC85E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58FE1D69-D6EE-405C-AF4A-1A73EC3B4905} = {D76A4859-2CCF-4CFD-A529-D23DA3A7B969}
+		{004A29AE-8048-463D-ADE4-4E3654FC85E3} = {599FD08D-6A74-4C55-AA48-006894B81F0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1928E887-7E80-40D4-8F13-95D3DA98C24D}
+	EndGlobalSection
+EndGlobal

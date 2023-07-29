@@ -1,0 +1,12 @@
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\bin\Debug\net7.0\ExCursos.deps.json
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\bin\Debug\net7.0\ExCursos.dll
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\bin\Debug\net7.0\ExCursos.pdb
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.dll
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\refint\ExCursos.dll
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ExCursos.pdb
+C:\Users\Utilizador\Documents\Software Developer\ISITestes\ExCursos\ExCursos\obj\Debug\net7.0\ref\ExCursos.dll
